@@ -1,10 +1,11 @@
 👋 Olá! me chamo Jairo 
 
-Um entusiasta de tecnologia aprendendo front-end e o mundo da programação 
+Um entusiasta de tecnologia aprendendo front-end e o mundo da programação💻
 
 Algumas informações sobre mim:
 
 🎓 Formação: No momento, estudo Front end no curso Dev-club
+
 em que obtenho os conceitos básicos de programação e desenvolvimento web.
 
 💻 Experiência: Atualmente estou aprendendo e desenvolvendo as habilidades front-end criando projetos com: 
