@@ -31,8 +31,8 @@ e eu adoraria ajudar outros desenvolvedores enquanto aprendo.
 📫 Contato: se você quiser entrar em contato comigo para discutir projetos ou oportunidades de colaboração, 
 sinta-se à vontade para enviar uma mensagem aqui no GitHub ou se conectar comigo em plataformas de mídia social.
 <br>
-<a href="https://www.facebook.com/jairodeL.santos?locale=pt_BR">📧</a>
 <br>
+<a target="blank" href="https://www.linkedin.com/in/jairo-de-lima-santos-731616306/">📧</a>
 <br>
 [![Jairo stats](https://github-readme-stats.vercel.app/api?username=jairo-de-lima)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairo-de-lima&layout=compact)
