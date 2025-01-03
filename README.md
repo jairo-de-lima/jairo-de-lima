@@ -1,24 +1,27 @@
-👋 Olá! me chamo Jairo 
+👋 Olá! Me chamo Jairo
 
-Um entusiasta de tecnologia aprendendo front-end e o mundo da programação💻
+Sou um entusiasta de tecnologia aprendendo Full-Stack e explorando o mundo da programação! 💻
 
-Algumas informações sobre mim:
+Sobre Mim
 
-🎓 Formação: No momento, estudo Front end no curso Dev-club
+🎓 Formação: Atualmente estudo Desenvolvimento Full-Stack no curso DevClub, onde aprendo conceitos fundamentais de programação, desenvolvimento web e backend.
 
-em que obtenho os conceitos básicos de programação e desenvolvimento web.
+💻 Experiência: Trabalho em projetos pessoais para consolidar minhas habilidades, utilizando as seguintes tecnologias:
 
-💻 Experiência: Atualmente estou aprendendo e desenvolvendo as habilidades front-end criando projetos com: 
+Tecnologias em Uso:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-Iniciando aprendizado:
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 
-  Procuro projetos legais para aprimorar minhas habilidades e expandir meus conhecimentos.(nunca e demais)😃
+📈 Projetos Recentes:
+
+Controle de Entregas: Um app em React Native para gerenciar pacotes entregues por motoboys.
+
+TrackPack: Ferramenta para empresas de logística rastrearem pacotes e totalizarem ganhos quinzenais.
+
+DevMovies: Um projeto React que consome uma API para exibir informações detalhadas sobre filmes e séries.
+
+
 
 📚 Aprendizado continuo: Todos os dias procuro aprender algo novo e colocar em pratica! ✏️
 
