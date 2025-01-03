@@ -3,15 +3,10 @@
 Sou um entusiasta de tecnologia aprendendo Full-Stack e explorando o mundo da programação! 💻
 
 Sobre Mim
+<br/>
 
 🎓 Formação: Atualmente estudo Desenvolvimento Full-Stack no curso DevClub, onde aprendo conceitos fundamentais de programação, desenvolvimento web e backend.
-
-💻 Experiência: Trabalho em projetos pessoais para consolidar minhas habilidades, utilizando as seguintes tecnologias:
-
-Tecnologias em Uso:
-
-
-
+<br/>
 
 📈 Projetos Recentes:
 
@@ -20,16 +15,18 @@ Controle de Entregas: Um app em React Native para gerenciar pacotes entregues po
 TrackPack: Ferramenta para empresas de logística rastrearem pacotes e totalizarem ganhos quinzenais.
 
 DevMovies: Um projeto React que consome uma API para exibir informações detalhadas sobre filmes e séries.
-
-
+<br/>
 
 📚 Aprendizado continuo: Todos os dias procuro aprender algo novo e colocar em pratica! ✏️
+<br/>
 
 📈 Projetos: atualmente estou trabalhando em alguns projetos pessoais para praticar o que aprendi. 
 Estou ansioso para compartilhar meu progresso em breve e colaborar com outros desenvolvedores. 
+<br/>
 
 🤝 Colaboração: Estou aberto a colaborações e feedback. Acredito que a aprendizagem coletiva é essencial quando se trata de um campo técnico como este, 
 e eu adoraria ajudar outros desenvolvedores enquanto aprendo. 
+<br/>
 
 📫 Contato: se você quiser entrar em contato comigo para discutir projetos ou oportunidades de colaboração, 
 sinta-se à vontade para enviar uma mensagem aqui no GitHub ou se conectar comigo em plataformas de mídia social.
